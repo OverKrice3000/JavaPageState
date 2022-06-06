@@ -3,8 +3,6 @@ package MessageGenerator;
 import Context.PageStateContext;
 
 import java.util.List;
-import java.util.function.BinaryOperator;
-import java.util.stream.Stream;
 
 public class ReportMessageGenerator {
 
